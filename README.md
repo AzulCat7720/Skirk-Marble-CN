@@ -15,7 +15,7 @@
 | --- | --- |
 | 脚本名 | Skirk Marble CN |
 | 版本 | 1.0.0-CN |
-| 适用站点 | `wplace.live/` |
+| 适用站点 | `wplace.live` |
 | 原作者 | Seris0 |
 | 许可证 | MPL-2.0(衍生作品,保留原作者署名) |
 | 更新方式 | 手动(已移除 @updateURL/@downloadURL,防止自动更新覆盖汉化) |
