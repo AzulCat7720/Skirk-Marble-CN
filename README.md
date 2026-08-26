@@ -6,7 +6,7 @@
 
 原版由 [Seris0](https://github.com/Seris0/Wplace-SkirkMarble) 开发(MPL-2.0),本分支在原版 v1.0.0 基础上完成全界面汉化,并修复了多个因站点改版导致的失效问题。
 
-点击[这里](https://github.com/AzulCat7720/Skirk-Marble-CN/releases/download/v1.0/SkirkMarble-CN.user.js)即可安装脚本，安装前请确认你已安装[Tampermonkey](https://www.tampermonkey.net/)。
+**点击[这里](https://github.com/AzulCat7720/Skirk-Marble-CN/releases/download/v1.0/SkirkMarble-CN.user.js)即可安装脚本，安装前请确认你已安装[Tampermonkey](https://www.tampermonkey.net/)。**
 
 仅可作辅助工具使用，无自动化等违规功能。
 
