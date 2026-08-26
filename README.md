@@ -1,6 +1,7 @@
 # Skirk Marble CN
 
-**Skirk Marble** 的简体中文汉化分支。用于增强 [wplace.live](https://wplace.live) 的游玩体验:模板管理、准星辅助、地点搜索、信息栏(用户名/水滴/升级经验/充能状态)、瓦片缓存等。
+**Skirk Marble** 的简体中文汉化分支。
+用于增强 [wplace.live](https://wplace.live) 的游玩体验:模板管理、准星辅助、地点搜索、信息栏(用户名/水滴/升级经验/充能状态)、瓦片缓存等。
 
 原版由 [Seris0](https://github.com/Seris0/Wplace-SkirkMarble) 开发(MPL-2.0),本分支在原版 v1.0.0 基础上完成全界面汉化,并修复了多个因站点改版导致的失效问题。
 
