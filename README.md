@@ -17,7 +17,7 @@
 | 项目 | 内容 |
 | --- | --- |
 | 脚本名 | Skirk Marble CN |
-| 适用站点 | `wplace.live` |
+| 适用站点 | wplace.live |
 | 原作者 | Seris0 |
 | 许可证 | MPL-2.0(衍生作品,保留原作者署名) |
 | 更新方式 | 手动(已移除 @updateURL/@downloadURL,防止自动更新覆盖汉化) |
@@ -52,13 +52,13 @@
 ## 安装与使用
 
 1. 使用 Chrome、Firefox 等浏览器打开本目录下的 `SkirkMarble-CN.user.js`,或在 Tampermonkey 面板中新建脚本并粘贴内容
-2. 因 @name 与原版不同,安装后为独立脚本"Skirk Marble CN",**不会覆盖**原版，且**可以与原版共存**（但在实际使用时最好不要同时启用）
+2. 因 `@name` 与原版不同,安装后为独立脚本"Skirk Marble CN",**不会覆盖**原版，且**可以与原版共存**（但在实际使用时最好不要同时启用）
 3. 启用脚本后刷新 wplace.live 页面即可使用
 
 ### 与原版共存注意事项
 
-- 两个脚本可同时在 Tampermonkey 中保留,但 **@match 完全相同,请勿同时启用**——会重复注入两套界面导致冲突
-- 用中文版就启用 "Skirk Marble CN" 并停用原版,反之亦然
+- 两个脚本可同时在 Tampermonkey 中保留,但 **`@match` 完全相同,请勿同时启用**——会重复注入两套界面导致冲突
+- 用中文版就启用 `Skirk Marble CN` 并停用原版,反之亦然
 - 设置数据存储于 `bm*`/`skirk` 前缀的键,两版共用,切换版本时设置自动延续
 
 ---
