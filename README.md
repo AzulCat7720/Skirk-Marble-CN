@@ -66,5 +66,5 @@
 ## 许可证与致谢
 
 - 原版脚本与图标版权归原作者 Seris0 所有,遵循 MPL-2.0 许可
-- 本分支仅作汉化与缺陷修复,与原版、Tampermonkey、wplace.live 均无关联
+- 本分支与原版、Tampermonkey、wplace.live 均无关联
 - 由 DeepSeek 模型实现
