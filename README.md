@@ -1,4 +1,4 @@
-# Skirk Marble CN ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+# <img width="25" height="25" alt="" src="https://wplace.live/img/logo-512x512.png" /> Skirk Marble CN <img width="25" height="25" alt="" src="https://wplace.live/img/logo-512x512.png" />
 
 **Skirk Marble** 的简体中文汉化分支。
 
@@ -6,7 +6,8 @@
 
 原版由 [Seris0](https://github.com/Seris0/Wplace-SkirkMarble) 开发(MPL-2.0),本分支在原版 v1.0.0 基础上完成全界面汉化,并修复了多个因站点改版导致的失效问题。
 
-**点击[这里](https://raw.githubusercontent.com/AzulCat7720/Skirk-Marble-CN/main/SkirkMarble-CN.user.js)即可安装最新脚本，安装前请确认你已安装[Tampermonkey（篡改猴）](https://www.tampermonkey.net/)。**
+**点击 [这里](https://raw.githubusercontent.com/AzulCat7720/Skirk-Marble-CN/main/SkirkMarble-CN.user.js) 即可安装最新脚本，安装前请确认你已安装
+[Tampermonkey（篡改猴）<img width="25" height="25" alt="" src="https://lh3.googleusercontent.com/zoY8FwoOqPlBgFxcmFdNSK2Q4CcLmv-gw7vTjF2KMR9cEabwBsGNrHBTEMitn0Ba6OmCVJ0NcLnFGu3N97BP8Phu0g=s60" />](https://www.tampermonkey.net/)。**
 
 仅可作辅助工具使用，无自动化等违规功能。
 
@@ -66,4 +67,4 @@
 ## 许可证与致谢
 
 - 原版脚本与图标版权归原作者 Seris0 所有,遵循 MPL-2.0 许可
-- 由 DeepSeek 模型实现
+- 由  DeepSeek<img width="30" height="30" alt="" src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" /> 模型实现
