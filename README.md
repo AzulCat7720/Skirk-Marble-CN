@@ -1,4 +1,4 @@
-# Skirk Marble CN
+# Skirk Marble CN ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 
 **Skirk Marble** 的简体中文汉化分支。
 
