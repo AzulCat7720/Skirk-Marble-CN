@@ -51,7 +51,7 @@
 
 ## 安装与使用
 
-1. 使用 Chrome、Firefox 等浏览器打开本目录下的 `SkirkMarble-CN.user.js`,或在 Tampermonkey 面板中新建脚本并粘贴内容
+1. 使用 Chrome、Firefox 等浏览器点击[这里](https://raw.githubusercontent.com/AzulCat7720/Skirk-Marble-CN/main/SkirkMarble-CN.user.js)即可安装最新脚本,或在 Tampermonkey 面板中新建脚本并粘贴内容
 2. 因 `@name` 与原版不同,安装后为独立脚本"Skirk Marble CN",**不会覆盖**原版，且**可以与原版共存**（但在实际使用时最好不要同时启用）
 3. 启用脚本后刷新 wplace.live 页面即可使用
 
