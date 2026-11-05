@@ -13,16 +13,6 @@
 
 ---
 
-## 基本信息
-
-| 项目 | 内容 |
-| --- | --- |
-| 脚本名 | Skirk Marble CN |
-| 适用站点 | wplace.live |
-| 原作者 | Seris0 |
-| 许可证 | MPL-2.0(衍生作品,保留原作者署名) |
-| 更新方式 | 自动更新 |
-
 ### 主要功能
 
 - **模板管理**：导入/导出/重命名/删除模板、模板进度追踪、错误像素/缺失像素检测与导航、模板截图
@@ -66,5 +56,5 @@
 
 ## 许可证与致谢
 
-- 原版脚本与图标版权归原作者 Seris0 所有,遵循 MPL-2.0 许可
-- 由  DeepSeek<img width="30" height="30" alt="" src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" /> 模型实现
+- 原版脚本版权归原作者 Seris0 所有,遵循 MPL-2.0 许可
+- 由  DeepSeek<img width="30" height="30" alt="" src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" /> 实现
